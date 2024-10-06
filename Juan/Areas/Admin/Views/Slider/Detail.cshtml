@@ -1,0 +1,20 @@
+﻿
+
+@{
+    ViewData["Title"] = "Detail";
+}
+@model Slider
+<div class="content-wrapper">
+    <div class="row">
+<div class="card" style="width: 18rem;">
+    <img class="card-img-top" src="~/assets/img/slider/@Model.Image">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+                <p class="card-text">@Model.SubTitle</p>
+                <p class="card-text">@Model.Description</p>
+        <a asp-action="Index" class="btn btn-primary">Go Back</a>
+    </div>
+        </div>
+    </div>
+ </div>
+

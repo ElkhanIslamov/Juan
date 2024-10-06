@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Juan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C55D2A-56F3-4311-9646-0617AC1A8A4D}|Juan\\Juan.csproj|d:\\desktop\\juan\\juan\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7C55D2A-56F3-4311-9646-0617AC1A8A4D}|Juan\\Juan.csproj|solutionrelative:juan\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C55D2A-56F3-4311-9646-0617AC1A8A4D}|Juan\\Juan.csproj|d:\\desktop\\juan\\juan\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C55D2A-56F3-4311-9646-0617AC1A8A4D}|Juan\\Juan.csproj|solutionrelative:juan\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C55D2A-56F3-4311-9646-0617AC1A8A4D}|Juan\\Juan.csproj|d:\\desktop\\juan\\juan\\areas\\admin\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C55D2A-56F3-4311-9646-0617AC1A8A4D}|Juan\\Juan.csproj|solutionrelative:juan\\areas\\admin\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C55D2A-56F3-4311-9646-0617AC1A8A4D}|Juan\\Juan.csproj|d:\\desktop\\juan\\juan\\areas\\admin\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C55D2A-56F3-4311-9646-0617AC1A8A4D}|Juan\\Juan.csproj|solutionrelative:juan\\areas\\admin\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C55D2A-56F3-4311-9646-0617AC1A8A4D}|Juan\\Juan.csproj|d:\\desktop\\juan\\juan\\areas\\admin\\views\\slider\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7C55D2A-56F3-4311-9646-0617AC1A8A4D}|Juan\\Juan.csproj|solutionrelative:juan\\areas\\admin\\views\\slider\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C55D2A-56F3-4311-9646-0617AC1A8A4D}|Juan\\Juan.csproj|d:\\desktop\\juan\\juan\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C55D2A-56F3-4311-9646-0617AC1A8A4D}|Juan\\Juan.csproj|solutionrelative:juan\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 349,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\Juan\\Juan\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Juan\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Desktop\\Juan\\Juan\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Juan\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwCgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T18:22:05.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Desktop\\Juan\\Juan\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Juan\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Desktop\\Juan\\Juan\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Juan\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:54:30.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Desktop\\Juan\\Juan\\Areas\\Admin\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Juan\\Areas\\Admin\\Models\\Category.cs",
+              "ToolTip": "D:\\Desktop\\Juan\\Juan\\Areas\\Admin\\Models\\Category.cs",
+              "RelativeToolTip": "Juan\\Areas\\Admin\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:49:08.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Desktop\\Juan\\Juan\\Areas\\Admin\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Juan\\Areas\\Admin\\Models\\Product.cs",
+              "ToolTip": "D:\\Desktop\\Juan\\Juan\\Areas\\Admin\\Models\\Product.cs",
+              "RelativeToolTip": "Juan\\Areas\\Admin\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:07:26.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\Juan\\Juan\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Juan\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "ToolTip": "D:\\Desktop\\Juan\\Juan\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "RelativeToolTip": "Juan\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T15:19:26.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "D:\\Desktop\\Juan\\Juan\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Juan\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "D:\\Desktop\\Juan\\Juan\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Juan\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:04:27.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 123,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
