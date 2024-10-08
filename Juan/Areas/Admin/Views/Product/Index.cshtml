@@ -15,6 +15,7 @@
                             <thead>
                                 <tr>
                                     <th>Image</th>
+                                    <th>Category</th>
                                     <th>Name</th>
                                     <th>Description</th>
                                     <th>Price</th>
@@ -31,6 +32,7 @@
                                         <td>
                                             <img src="~/assets/img/product/@product.Image" />
                                         </td>
+                                        <td>@product.Category.Name</td>
                                         <td>@product.Name</td>
                                         <td>@product.Description</td>
                                         <td>@product.Price</td>

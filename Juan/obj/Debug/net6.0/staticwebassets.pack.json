@@ -1,659 +1,687 @@
 {
   "Files": [
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\css\\maps\\style.css.map",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\css\\maps\\style.css.map",
       "PackagePath": "staticwebassets\\adminAssets\\css\\maps\\style.css.map"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\css\\style.css",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\css\\style.css",
       "PackagePath": "staticwebassets\\adminAssets\\css\\style.css"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.eot",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.eot",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Black.eot"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.ttf",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.ttf",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Black.ttf"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.woff",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.woff",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Black.woff"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.woff2",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.woff2",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Black.woff2"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.eot",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.eot",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Bold.eot"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.ttf",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Bold.ttf"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.woff",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.woff",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Bold.woff"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.woff2",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Bold.woff2"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.eot",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.eot",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Light.eot"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.ttf",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.ttf",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Light.ttf"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.woff",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.woff",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Light.woff"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.woff2",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.woff2",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Light.woff2"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.eot",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.eot",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Medium.eot"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.ttf",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Medium.ttf"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.woff",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.woff",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Medium.woff"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.woff2",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Medium.woff2"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.eot",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.eot",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Regular.eot"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.ttf",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Regular.ttf"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.woff",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.woff",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Regular.woff"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.woff2",
       "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Regular.woff2"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\auth\\lockscreen-bg.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\auth\\lockscreen-bg.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\lockscreen-bg.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\auth\\login-bg.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\auth\\login-bg.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\login-bg.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\auth\\register-bg.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\auth\\register-bg.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\register-bg.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face1.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face1.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face1.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face10.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face10.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face10.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face11.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face11.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face11.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face12.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face12.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face12.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face13.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face13.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face13.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face14.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face14.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face14.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face15.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face15.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face15.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face16.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face16.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face16.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face17.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face17.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face17.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face18.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face18.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face18.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face19.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face19.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face19.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face2.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face2.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face2.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face20.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face20.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face20.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face21.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face21.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face21.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face22.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face22.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face22.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face23.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face23.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face23.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face24.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face24.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face24.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face25.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face25.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face25.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face26.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face26.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face26.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face27.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face27.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face27.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face3.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face3.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face3.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face4.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face4.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face4.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face5.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face5.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face5.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face6.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face6.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face6.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face7.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face7.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face7.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face8.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face8.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face8.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face9.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\faces\\face9.jpg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face9.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\favicon.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\favicon.png",
       "PackagePath": "staticwebassets\\adminAssets\\images\\favicon.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\logo-mini.svg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\logo-mini.svg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\logo-mini.svg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\images\\logo.svg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\images\\logo.svg",
       "PackagePath": "staticwebassets\\adminAssets\\images\\logo.svg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\js\\Chart.min.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\js\\Chart.min.js",
       "PackagePath": "staticwebassets\\adminAssets\\js\\Chart.min.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\js\\chart.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\js\\chart.js",
       "PackagePath": "staticwebassets\\adminAssets\\js\\chart.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\js\\dashboard.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\js\\dashboard.js",
       "PackagePath": "staticwebassets\\adminAssets\\js\\dashboard.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\js\\data-table.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\js\\data-table.js",
       "PackagePath": "staticwebassets\\adminAssets\\js\\data-table.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\js\\dataTables.bootstrap4.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\js\\dataTables.bootstrap4.js",
       "PackagePath": "staticwebassets\\adminAssets\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\js\\documentation.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\js\\documentation.js",
       "PackagePath": "staticwebassets\\adminAssets\\js\\documentation.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\js\\file-upload.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\js\\file-upload.js",
       "PackagePath": "staticwebassets\\adminAssets\\js\\file-upload.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\js\\hoverable-collapse.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\js\\hoverable-collapse.js",
       "PackagePath": "staticwebassets\\adminAssets\\js\\hoverable-collapse.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\js\\jquery.cookie.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\js\\jquery.cookie.js",
       "PackagePath": "staticwebassets\\adminAssets\\js\\jquery.cookie.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\js\\jquery.dataTables.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\js\\jquery.dataTables.js",
       "PackagePath": "staticwebassets\\adminAssets\\js\\jquery.dataTables.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\js\\off-canvas.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\js\\off-canvas.js",
       "PackagePath": "staticwebassets\\adminAssets\\js\\off-canvas.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\js\\tabs.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\js\\tabs.js",
       "PackagePath": "staticwebassets\\adminAssets\\js\\tabs.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\js\\template.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\js\\template.js",
       "PackagePath": "staticwebassets\\adminAssets\\js\\template.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\base\\bootstrap.min.js.map",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\base\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\adminAssets\\vendors\\base\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\base\\vendor.bundle.base.css",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\base\\vendor.bundle.base.css",
       "PackagePath": "staticwebassets\\adminAssets\\vendors\\base\\vendor.bundle.base.css"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\base\\vendor.bundle.base.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\base\\vendor.bundle.base.js",
       "PackagePath": "staticwebassets\\adminAssets\\vendors\\base\\vendor.bundle.base.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\chart.js\\Chart.min.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\chart.js\\Chart.min.js",
       "PackagePath": "staticwebassets\\adminAssets\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
       "PackagePath": "staticwebassets\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
       "PackagePath": "staticwebassets\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\datatables.net\\jquery.dataTables.js",
       "PackagePath": "staticwebassets\\adminAssets\\vendors\\datatables.net\\jquery.dataTables.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
       "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
       "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\css\\images\\ui-icons_444444_256x240.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\css\\images\\ui-icons_444444_256x240.png",
       "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_444444_256x240.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\css\\images\\ui-icons_555555_256x240.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\css\\images\\ui-icons_555555_256x240.png",
       "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_555555_256x240.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\css\\images\\ui-icons_777620_256x240.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\css\\images\\ui-icons_777620_256x240.png",
       "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_777620_256x240.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\css\\images\\ui-icons_777777_256x240.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\css\\images\\ui-icons_777777_256x240.png",
       "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_777777_256x240.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\css\\images\\ui-icons_cc0000_256x240.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\css\\images\\ui-icons_cc0000_256x240.png",
       "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_cc0000_256x240.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\css\\images\\ui-icons_ffffff_256x240.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\css\\images\\ui-icons_ffffff_256x240.png",
       "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_ffffff_256x240.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\css\\plugins.css",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\css\\plugins.css",
       "PackagePath": "staticwebassets\\assets\\css\\plugins.css"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\css\\style.css",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\css\\vendor.css",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\css\\vendor.css",
       "PackagePath": "staticwebassets\\assets\\css\\vendor.css"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\fonts\\ionicons28b5.eot",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\fonts\\ionicons28b5.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.eot"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\fonts\\ionicons28b5.svg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\fonts\\ionicons28b5.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.svg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\fonts\\ionicons28b5.ttf",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\fonts\\ionicons28b5.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.ttf"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\fonts\\ionicons28b5.woff",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\fonts\\ionicons28b5.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.woff"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\about\\avatar.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\about\\avatar.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\about\\avatar.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\about\\services.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\about\\services.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\about\\services.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\banner\\banner-1.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\banner\\banner-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-1.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\banner\\banner-2.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\banner\\banner-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-2.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\banner\\banner-3.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\banner\\banner-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-3.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\banner\\banner_left.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\banner\\banner_left.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner_left.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\11.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\11.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\11.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-1.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-2.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-3.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-4.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\blog-details-1.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\blog-details-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details-1.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\blog-details-2.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\blog-details-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details-2.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\comment-icon.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\comment-icon.png",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\comment-icon.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\recent-01.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\recent-01.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\recent-01.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\recent-02.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\recent-02.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\recent-02.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\recent-03.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\recent-03.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\recent-03.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\recent-04.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\blog\\recent-04.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\recent-04.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\brand\\br1.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\brand\\br1.png",
       "PackagePath": "staticwebassets\\assets\\img\\brand\\br1.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\brand\\br2.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\brand\\br2.png",
       "PackagePath": "staticwebassets\\assets\\img\\brand\\br2.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\brand\\br3.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\brand\\br3.png",
       "PackagePath": "staticwebassets\\assets\\img\\brand\\br3.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\brand\\br4.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\brand\\br4.png",
       "PackagePath": "staticwebassets\\assets\\img\\brand\\br4.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\brand\\br5.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\brand\\br5.png",
       "PackagePath": "staticwebassets\\assets\\img\\brand\\br5.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\cart\\cart-1.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\cart\\cart-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-1.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\cart\\cart-2.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\cart\\cart-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-2.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\favicon.ico",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\icon\\cancel.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\icon\\cancel.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\cancel.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\icon\\en.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\icon\\en.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\en.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\icon\\fr.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\icon\\fr.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\fr.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\icon\\policy-1.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\icon\\policy-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\policy-1.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\icon\\policy-2.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\icon\\policy-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\policy-2.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\icon\\policy-3.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\icon\\policy-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\policy-3.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\logo\\logo.png",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\logo\\logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\paypal-card.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\paypal-card.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\paypal-card.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\pro-small-1.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\pro-small-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\pro-small-1.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\pro-small-2.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\pro-small-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\pro-small-2.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\pro-small-3.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\pro-small-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\pro-small-3.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\pro-small-4.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\pro-small-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\pro-small-4.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-1.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-1.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-10.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-10.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-10.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-11.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-11.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-11.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-12.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-12.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-12.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-2.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-2.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-3.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-3.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-4.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-4.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-5.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-5.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-6.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-6.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-7.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-7.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-7.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-8.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-8.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-9.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-9.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-9.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-details-img1.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-details-img1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-details-img1.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-details-img2.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-details-img2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-details-img2.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-details-img3.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-details-img3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-details-img3.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-details-img4.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\product\\product-details-img4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-details-img4.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\slider\\slider-1.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\slider\\slider-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-1.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\slider\\slider-2.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\slider\\slider-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-2.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\testimonial\\tm-1.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\testimonial\\tm-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial\\tm-1.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\testimonial\\tm-2.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\testimonial\\tm-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial\\tm-2.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\img\\testimonial\\tm-3.jpg",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\img\\testimonial\\tm-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial\\tm-3.jpg"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\js\\active.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\js\\active.js",
       "PackagePath": "staticwebassets\\assets\\js\\active.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\js\\modernizr-2.8.3.min.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\js\\modernizr-2.8.3.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\modernizr-2.8.3.min.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\js\\plugins.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\js\\plugins.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
     },
     {
-      "Id": "D:\\Desktop\\Juan\\Juan\\wwwroot\\assets\\js\\vendor.js",
+      "Id": "D:\\Рабочий стол\\Juan\\Juan\\wwwroot\\assets\\js\\vendor.js",
       "PackagePath": "staticwebassets\\assets\\js\\vendor.js"
     },
     {

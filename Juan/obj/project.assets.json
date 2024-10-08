@@ -10320,19 +10320,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Elkhan.Islamov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\Juan\\Juan\\Juan.csproj",
+      "projectUniqueName": "D:\\Рабочий стол\\Juan\\Juan\\Juan.csproj",
       "projectName": "Juan",
-      "projectPath": "D:\\Desktop\\Juan\\Juan\\Juan.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\Juan\\Juan\\obj\\",
+      "projectPath": "D:\\Рабочий стол\\Juan\\Juan\\Juan.csproj",
+      "packagesPath": "C:\\Users\\Elkhan.Islamov\\.nuget\\packages\\",
+      "outputPath": "D:\\Рабочий стол\\Juan\\Juan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Elkhan.Islamov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10352,11 +10352,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -10401,7 +10396,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
